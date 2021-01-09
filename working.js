@@ -1,9 +1,9 @@
 //Hey, comments just like C++
 //Just messing with the button
-document.getElementById("button").onclick = function() {
-  document.getElementById("hurt_feelings").innerHTML = "Thank you!";
-  document.getElementById("button").style.display = "none";
-}
+//document.getElementById("button").onclick = function() {
+  //document.getElementById("hurt_feelings").innerHTML = "Thank you!";
+  //document.getElementById("button").style.display = "none";
+//}
 
 
 //Asking for username - going to be too much of a bother?
