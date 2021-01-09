@@ -7,8 +7,8 @@ document.getElementById("button").onclick = function() {
 
 
 //Asking for username - going to be too much of a bother?
-var username = prompt();
-console.log(username);
+//var username = prompt();
+//console.log(username);
 
 (function() {
   //IIFE - immediately invoked function expresssion
