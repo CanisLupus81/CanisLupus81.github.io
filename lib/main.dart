@@ -130,9 +130,12 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Widget size_decider(BuildContext context) {
+    print("deciding");
     if (MediaQuery.of(context).size.width < 400) {
+      print("are we moving?");
       return mobileBuilder(context);
     } else {
+      print("Should be here!");
       return webBuilder(context);
     }
   }
