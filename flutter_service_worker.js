@@ -3,19 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "5e288658f8fa2dcd275a958c53a2f16c",
+"assets/assets/hotel-wallpaper-black.png": "c6d27946a650873e079f0e5668a2faf5",
+"assets/assets/oriental-tiles.png": "7f265ae79733166ad09cf18e63255654",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "8b5f0b8e497484f7604f333baa4fbc5b",
+"assets/NOTICES": "68904c530f641946a2a652392aa4f47b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "44dc38dd12890ef6c5f3cfffe51e215b",
-"/": "44dc38dd12890ef6c5f3cfffe51e215b",
-"main.dart.js": "6c75d3b125dee3897a8e7f0fa576244e",
+"index.html": "e0ae513cda6a55cf20921be9cbdba111",
+"/": "e0ae513cda6a55cf20921be9cbdba111",
+"main.dart.js": "94f6b78b752f194e740fe4d7af3f5d5e",
 "manifest.json": "c2c72c0d50ed91bd431fc655dc5e083e",
 "version.json": "ae6ec7e100fa218a70c1a7006c2c1b64"
 };
